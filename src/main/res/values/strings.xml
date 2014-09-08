@@ -3,15 +3,24 @@
 
     <string name="app_name">Font override example</string>
 
-    <string name="message_default">Default</string>
+    <string name="message_default">Default normal</string>
+    <string name="message_default_bold">Default bold</string>
+    <string name="message_default_italic">Default italic</string>
+    <string name="message_default_bold_italic">Default bold italic</string>
 
-    <string name="message_typeface_mono">Typeface mono</string>
-    <string name="message_typeface_serif">Typeface serif</string>
-    <string name="message_typeface_sans">Typeface sans</string>
+    <string name="message_typeface_sans">Typeface sans, normal</string>
+    <string name="message_typeface_sans_bold">Typeface sans, bold</string>
+    <string name="message_typeface_sans_italic">Typeface sans, italic</string>
+    <string name="message_typeface_sans_bold_italic">Typeface sans, bold italic</string>
 
-    <string name="message_sans_serif">Font family sans-serif</string>
-    <string name="message_sans_serif_thin">Font family sans-serif-thin</string>
-    <string name="message_sans_serif_condensed">Font family sans-serif-condensed</string>
-    <string name="message_sans_serif_light">Font family sans-serif-light</string>
+    <string name="message_typeface_serif">Typeface serif, normal</string>
+    <string name="message_typeface_serif_bold">Typeface serif, bold</string>
+    <string name="message_typeface_serif_italic">Typeface serif, italic</string>
+    <string name="message_typeface_serif_bold_italic">Typeface serif, bold italic</string>
+
+    <string name="message_typeface_mono">Typeface mono, normal</string>
+    <string name="message_typeface_mono_bold">Typeface mono, bold</string>
+    <string name="message_typeface_mono_italic">Typeface mono, italic</string>
+    <string name="message_typeface_mono_bold_italic">Typeface mono, bold italic</string>
 
 </resources>

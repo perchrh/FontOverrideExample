@@ -5,7 +5,8 @@
     <application
         android:name=".FontsOverrideApplication"
         android:allowBackup="true"
-        android:label="@string/app_name">
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light">
         <activity
             android:name=".FontDisplay"
             android:label="@string/app_name">
